@@ -8,7 +8,7 @@ Time spent: 5 hours spent in total
 
 Link to project: 
 Live Site - https://sable-marvelous-sardine.glitch.me 
-Code - https://glitch.com/edit/#!/sable-marvelous-sardine
+ Code - https://glitch.com/edit/#!/sable-marvelous-sardine
 
 ## Required Functionality
 
